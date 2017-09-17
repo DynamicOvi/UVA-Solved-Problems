@@ -54,9 +54,7 @@ int main()
                 if(state[j][i]==1)
                     tw++;
                 if(check[j][i]==1)
-                {
                     f=1;
-                }
             }
             if(tw==n)
             {
